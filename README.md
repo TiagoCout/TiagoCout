@@ -29,7 +29,9 @@ I hold certifications as an AWS Certified Cloud Practitioner and an AWS re/Start
 
 I'm always up for connecting with fellow developers, tech enthusiasts, and industry professionals. Let's chat about coding, innovation, and everything in between! Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagolcoutinho/) or drop me an email at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagolcout@gmail.com).
 
+### 📊 GitHub Stats
 
+![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoCout&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
 
 ### 🎧 When I'm Not Coding
 
