@@ -33,7 +33,7 @@ I'm always up for connecting with fellow developers, tech enthusiasts, and indus
 
 ### 📊 GitHub Stats
 
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoCout&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TiagoCout&theme=dark)](https://git.io/streak-stats)
 
 ### 🎧 When I'm Not Coding
 
