@@ -1,5 +1,7 @@
 # Welcome to My Coding World! 👋👨🏼‍💻
 
+![github-header-image](https://github.com/TiagoCout/TiagoCout/assets/114871216/2b6876f2-60d0-412a-9bbf-0ff64160eb0b)
+
 ## About Me 🚀
 
 Hey there! 👋 I'm Tiago, a former civil engineer who has transitioned into the world of coding. I'm a passionate junior software developer with a knack for crafting innovative and user-friendly software solutions.
