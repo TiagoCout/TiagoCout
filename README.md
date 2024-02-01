@@ -19,9 +19,9 @@ Hey there! 👋 I'm a former civil engineer turned coding enthusiast and junior 
     
 ## Certifications
 
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white)
-(Issued Dec 2023, Expires Dec 2026)
-- ![AWS re/Start Graduate](https://img.shields.io/badge/AWS%20re%2FStart%20Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) (Issued Nov 2023)
+- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/91d38758-3c2b-4a67-8e45-6b58cd1b8847/linked_in_profile) (Issued Dec 2023)
+- [![AWS re/Start Graduate](https://img.shields.io/badge/AWS%20re%2FStart%20Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ba181561-1360-4ac6-89ee-4d7443fcf273/linked_in_profile) (Issued Nov 2023)
+
 
 ## Connect with Me
 
