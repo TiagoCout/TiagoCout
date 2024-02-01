@@ -17,6 +17,7 @@ My coding journey began at Code for All (formerly known as Academia de Código),
 - **Databases:** Relational Database Management Systems, Java Database Connectivity, Java Persistence
 - **Frameworks:** Spring Framework
 - **Web Development:** Java Web Programming, Frontend Development, jQuery Library
+- **Operating Systems:** Linux (studied extensively using VMs), macOS (utilized during the bootcamp), Windows
 - **Tools:** Git, Vim
     
 ### ☁️ Cloud and Certifications
