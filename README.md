@@ -1,5 +1,4 @@
-# Welcome to My Coding World! 👋👨🏼‍💻
-
+---
 ![github-header-image (1)](https://github.com/TiagoCout/TiagoCout/assets/114871216/981d4c2f-deea-41a8-94f4-2abd4c8e6aa3)
 
 ## About Me 🚀
