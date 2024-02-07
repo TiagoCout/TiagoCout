@@ -35,6 +35,8 @@ I'm always up for connecting with fellow developers, tech enthusiasts, and indus
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TiagoCout&theme=dark)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCout&layout=compact&theme=dark)](https://git.io/streak-stats)
+
 ### 🎧 When I'm Not Coding
 
 Outside the coding realm, you'll find me infusing humor, adventure, and a love for electronic music into my daily life. Join me on this exhilarating coding journey, and let's create cutting-edge software that not only makes users smile but also moves to the rhythm of innovation.
